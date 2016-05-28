@@ -3,7 +3,7 @@ var ChannelType = {
 	NEW_MESSAGE: "/message",
 	OFFLINE: "/offline"
 };
-var serverIp = "192.168.1.190";
+var serverIp = "localhost";
 
 var page = {
 		
